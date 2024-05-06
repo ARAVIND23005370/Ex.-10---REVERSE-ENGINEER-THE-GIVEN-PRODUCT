@@ -31,12 +31,15 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![326433406-2ebff4c7-8f30-46e2-9685-f5bdabbcf14e](https://github.com/ARAVIND23005370/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148514836/071a7287-ea5f-4407-8cd9-20cb0221cde9)
 
 ### Output:
 
+![326433491-149dbd29-43bf-4df3-8864-fa9fe3c3d8cd](https://github.com/ARAVIND23005370/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148514836/5ce99dd5-7f7a-4fcc-8046-5e1fe1924a32)
 
-### Name:
-### Register Number:
+
+### Name:ARAVIND R
+### Register Number:212223230019
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
